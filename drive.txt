@@ -1,0 +1,4 @@
+before install the drive, install node.js and framework electron in terminal  
+
+
+https://drive.google.com/file/d/1mM4jeM4n0nSdRhgePvTD_CruwI44vVXM/view?usp=drive_link
