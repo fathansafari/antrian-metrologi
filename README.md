@@ -63,24 +63,3 @@ graph TD;
     B -->|Real-time Update| C[🖥️ Admin App];
     B -->|Real-time Update| D[📺 Display TV];
     C -->|Kontrol Panggilan| B;
-
-## 🚀 Fitur Utama  
-
-### **🔹 Kiosk App**
-- Ambil nomor antrian  
-- Menentukan jenis layanan  
-- Menyimpan data secara otomatis  
-
-### **🔹 Admin App**
-- Panggil nomor antrian  
-- Informasi pelanggan berikutnya  
-- Navigasi: Next, Back, Skip, atau Repeat call  
-- Monitoring layanan  
-
-### **🔹 Display App**
-- Tampilan nomor antrian besar & jelas  
-- Animasi perubahan nomor  
-- Notifikasi panggilan  
-
----
-
