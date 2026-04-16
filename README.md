@@ -24,7 +24,7 @@ Sistem manajemen antrian berbasis desktop yang terdiri dari dua aplikasi: **Admi
 ## 🚀 Cara Instalasi
 
 ### 1. Download File Installer
-Klik link download di atas, lalu simpan file `.exe` ke komputer Anda.
+Klik link download di atas, lalu extract ke komputer Anda.
 
 ### 2. Jalankan Installer
 
@@ -88,8 +88,8 @@ A: Saat ini hanya mendukung **Windows**.
 
 ## 📞 Kontak & Dukungan
 
-Jika mengalami kendala teknis, silakan hubungi tim pengembang.
+Jika mengalami kendala teknis, silakan hubungi atau kirim email ke muhammadfathansafari@gmail.com
 
 ---
 
-*Versi Aplikasi: 1.2.1 — Dibuat: Januari 2026*
+*Versi Aplikasi: 1.2.1*
